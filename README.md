@@ -1,6 +1,6 @@
 ALX Backend Storage
 Overview
-Welcome to the alx-backend-storage repository! This project is part of the ALX Backend Short Specialization curriculum. The focus of this repository is on various storage solutions, including Advanced MySQL, NoSQL, and Redis.
+Welcome to the alx-backend-storage repository! This project is part of the ALX Backend Short Specialization curriculum. The focus of this repository is on various storage solutions, including Advanced MySQL and NoSQL.
 
 
 Introduction
